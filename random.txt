@@ -1,0 +1,8 @@
+Ordinary differential equation of first order (Exact, linear and Bernoulli’s
+equations), Equations of first order but not of first degree: equations solvable for 𝑝,
+equations solvable for 𝑦 and equations solvable for 𝑥, Clairaut’s type, Linear
+differential equations of 𝑛
+th order with constant coefficients, Complementary
+functions and particular integrals, Cauchy-Euler differential equation, Second order
+linear differential equations with variable coefficients, Method of variation of
+parameters and applications of ODE
